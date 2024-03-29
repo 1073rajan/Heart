@@ -36,7 +36,7 @@ and lifestyle factors. Each instance in the dataset is labeled with the presence
 - Deployment: Choose the best-performing model and deploy it using Flask, FastAPI, or any other deployment framework.
 
 ## Results
-Our model achieved an accuracy of X% on the test set, demonstrating its effectiveness in predicting breast cancer. 
+Our model achieved an accuracy of X% on the test set, demonstrating its effectiveness in predicting Heart. 
 Further details on performance metrics and visualization of results can be found in the project documentation.
 
 ## Future Work
